@@ -11,11 +11,11 @@ Hello! I'm Mohanakumaran S R, a passionate data enthusiast eager to explore the 
 
 ## Tools I Work With
 <p align="center">
-  <img src="[excel_logo.png](https://images.app.goo.gl/SLWDBtPQhJGEerDo7)" alt="Excel" height="50"/>
-  <img src="powerbi_logo.png" alt="Power BI" height="50"/>
-  <img src="tableau_logo.png" alt="Tableau" height="50"/>
-  <img src="sql_logo.png" alt="SQL" height="50"/>
-  <img src="python_logo.png" alt="Python" height="50"/>
+  <img src="excel_logo.png" alt="Excel" height="50" style="margin: 0 10px;"/>
+  <img src="powerbi_logo.png" alt="Power BI" height="50" style="margin: 0 10px;"/>
+  <img src="tableau_logo.png" alt="Tableau" height="50" style="margin: 0 10px;"/>
+  <img src="sql_logo.png" alt="SQL" height="50" style="margin: 0 10px;"/>
+  <img src="python_logo.png" alt="Python" height="50" style="margin: 0 10px;"/>
 </p>
 
 ## Projects
