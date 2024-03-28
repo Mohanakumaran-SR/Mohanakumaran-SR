@@ -18,16 +18,10 @@ Hello! I'm Mohanakumaran S R, a passionate data enthusiast eager to explore the 
   <img src="python_logo.png" alt="Python" height="50" style="margin: 0 10px;"/>
 </p>
 
-## Projects
-- [Project 1 Name](link): Illuminate your journey through a project description highlighting its significance in the realm of data analysis.
-- [Project 2 Name](link): Embark on another data exploration journey, capturing the essence of its relevance to the data analysis landscape.
-- [Project 3 Name](link): Venture into a third expedition of data insights, showcasing its profound impact on the data analysis domain.
-
 ## Connect with Me
 Let's connect and dive deeper into the realm of data! Feel free to reach out:
-- LinkedIn: [Your LinkedIn Profile](link)
-- Twitter: [@YourTwitterHandle](link)
-
+- LinkedIn: www.linkedin.com/in/mohanakumaransr
+ 
 ## Let's Collaborate!
 I'm always eager to connect with fellow data enthusiasts, collaborate on projects, or engage in captivating discussions around data analysis. Drop me a message, and let's embark on this journey together! 😊
 
