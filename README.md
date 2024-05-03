@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
 ## About Me
-Hello! I'm Mohanakumaran S R, a passionate data enthusiast eager to explore the secrets hidden in datasets. I have a strong understanding of tools like Excel, Power BI, and Tableau. Currently, I'm diving into SQL and Python to further enhance my analytical skills.
+Hello! I'm Mohanakumaran S R, a passionate data enthusiast eager to explore the secrets hidden in datasets. With a solid understanding of tools like Excel, Power BI, and Tableau, I've recently completed my SQL learning journey and am now proficient in using MySQL to extract insights from data. Currently, I'm honing my skills in Python to further expand my analytical capabilities.
 
 ## Skills
 - **Data Analysis:** I'm skilled in Excel for manipulating, visualizing, and analyzing data. I create dynamic dashboards and reports using Power BI and Tableau.
